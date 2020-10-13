@@ -1,4 +1,11 @@
-.head {
+h1.head {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+h2.head {
+  font-family: Lucida, sans-serif;
+  font-style: italic;
   text-align: center;
 }
 
